@@ -11,7 +11,8 @@ This is a PoC app to demonstrate the following technologies working together:
 
 This is the back-end part of the application.
 
-Please see the front-end repo as well.
+Please see the front-end repo as well:
+https://github.com/yus-h/lifttracker-angular-frontend
 
 
 ## Setup
@@ -45,7 +46,8 @@ Once you have logged in, you will be able to create and modify your routine
 
 * Correct authentication
 * Create exercise by muscle group
-
+* Upgrade Angular CLI
+* Add NGRX
 
 ## Screenshots
 
