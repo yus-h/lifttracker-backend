@@ -6,13 +6,14 @@ The app allows you to define exercises, and then create routines with reps and s
 This is a PoC app to demonstrate the following technologies working together:
 * Spring Boot
 * Angular 2+
+* NGRX state management
 * MySQL
-* Bootstrap
+* Bootstrap 4
 
-This is the back-end part of the application.
+This is the front-end part of the application.
 
-Please see the front-end repo as well:
-https://github.com/yus-h/lifttracker-angular-frontend
+Please see the back-end repo as well:
+https://github.com/yus-h/lifttracker-backend
 
 
 ## Setup
@@ -45,9 +46,9 @@ Once you have logged in, you will be able to create and modify your routine
 ### TODO
 
 * Correct authentication
-* Create exercise by muscle group
-* Upgrade Angular CLI
-* Add NGRX
+* Create exercise by muscle group and more complex data structure for exercise (e.g. photos etc)
+* Refactor remainder of app with NGRX
+* Routine stats visualisation with d3
 
 ## Screenshots
 
